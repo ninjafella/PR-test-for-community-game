@@ -69,13 +69,13 @@ iii) You should now see the push button. Press it and your changes will be added
 
 __6)__ Now that you have made your changes and pushed them it's time to create the pull request. Go to your repo on the GitHub website.
 
-![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/GH_D-pull-request-tab.png?raw=true)
+![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/pull-request-tab.png?raw=true)
 
 __7)__ Go to the pull request tab found underneath your repos title.
 
 __8)__ Press create "New pull request"
 
-![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/GH_D-new_PR.png?raw=true)
+![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/new_PR.png?raw=true)
 
 __9)__ Press "Create pull request" and then press it again.
 
