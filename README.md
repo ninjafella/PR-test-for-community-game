@@ -75,7 +75,7 @@ __7)__ Go to the pull request tab found underneath your repos title.
 
 __8)__ Press create "New pull request"
 
-![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/new_PR.png?raw=true)
+![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/new-PR.png?raw=true)
 
 __9)__ Press "Create pull request" and then press it again.
 
