@@ -20,11 +20,11 @@ __2)__ Once pressed wait for the project to be forked
 
 __3)__ Congrats you've just forked the project. The next step is to pull your fork to your local device so you can edit it. This can be done two ways and it is down to personal preference on which method you choose.
 
-<u>Using CLI</u>
+<ins>Using CLI:</ins>
 
 If you have git CLI installed on your computer simply run `git clone https://github.com/<your GitHub username>/PR-test-for-community-game` in your systems command line interface
 
-<u>Using GitHub Desktop</u>
+<ins>Using GitHub Desktop</ins>
 
 ![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/GH_D-first-page.png?raw=true)
 
@@ -46,12 +46,12 @@ __4)__ Now create a new .txt file with the file name being your Discord name plu
 
 __5)__ After making your .txt file you need to commit and push your changes to your fork of ninjafella's repo.
 
-<u>Using CLI</u>
+<ins>Using CLI</ins>
 
 i) Run `git commit "<description of your changes>"` in the directory of the repo saved on your local device
 ii) Run `git push`
 
-<u>Using GitHub Desktop</u>
+<ins>Using GitHub Desktop</ins>
 
 ![forking](https://github.com/ninjafella/PR-test-for-community-game/blob/main/images/GH_D-changes-made.png?raw=true)
 
