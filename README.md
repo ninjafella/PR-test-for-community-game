@@ -20,7 +20,7 @@ __2)__ Once pressed wait for the project to be forked
 
 __3)__ Congrats you've just forked the project. The next step is to pull your fork to your local device so you can edit it. This can be done two ways and it is down to personal preference on which method you choose.
 
-<ins>Using CLI:</ins>
+<ins>Using CLI</ins>
 
 If you have git CLI installed on your computer simply run `git clone https://github.com/<your GitHub username>/PR-test-for-community-game` in your systems command line interface
 
